@@ -56,4 +56,4 @@ ssh -T git@github.com
 Hi "YourName"! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
-[先参考这个](https://zhuanlan.zhihu.com/p/87466740)
+[先参考这个](https://www.cnblogs.com/eaglezb/p/6602123.html)
